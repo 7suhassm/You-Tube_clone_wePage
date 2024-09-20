@@ -1,0 +1,50 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://127.0.0.1:5500/channel-pic/flex.html
+Subject: Flex-box-practice
+Date: Mon, 16 Sep 2024 13:09:38 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--gknrsldjtgNxOsyFbxgkSyu8IVUOo5Szm2yTlRXoiN----"
+
+
+------MultipartBoundary--gknrsldjtgNxOsyFbxgkSyu8IVUOo5Szm2yTlRXoiN----
+Content-Type: text/html
+Content-ID: <frame-6A8C3C8A6B0FC2B56BEF1D285B76507D@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/channel-pic/flex.html
+
+<!DOCTYPE html><html><head><meta http-equiv=3D"Content-Type" content=3D"tex=
+t/html; charset=3DUTF-8">
+<title>Flex-box-practice</title>
+  </head>
+  <body>
+    <div style=3D"display: flex;
+    flex-direction: row;">
+      <div style=3D"background-color: lightblue;">
+        Div1
+      </div>
+      <div style=3D"background-color: antiquewhite;">
+        Div2
+      </div>
+    </div>
+    <div style=3D"display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+    ">
+      <div style=3D"background-color: lightblue;
+      width: 100px;
+      ">
+        100px
+      </div>
+      <div style=3D"background-color: antiquewhite;
+      flex: 1;">
+        Div2
+      </div>
+    </div>
+   =20
+  <!-- Code injected by live-server -->
+
+
+</body></html>
+------MultipartBoundary--gknrsldjtgNxOsyFbxgkSyu8IVUOo5Szm2yTlRXoiN------

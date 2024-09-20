@@ -1,0 +1,48 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://127.0.0.1:5500/trackball.html
+Subject: Track-ball
+Date: Tue, 17 Sep 2024 14:07:40 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--ZcVTet3rR7azPxkMG20Un7owrppz1cNTld9TVH1qGO----"
+
+
+------MultipartBoundary--ZcVTet3rR7azPxkMG20Un7owrppz1cNTld9TVH1qGO----
+Content-Type: text/html
+Content-ID: <frame-74F24AD329C3FF5CB5B60E4BD293F7E5@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/trackball.html
+
+<!DOCTYPE html><html><head><meta http-equiv=3D"Content-Type" content=3D"tex=
+t/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D=
+"cid:css-637d7eea-5c3f-44be-b069-9687ba33bc86@mhtml.blink" />
+    <title>
+      Track-ball
+    </title>
+   =20
+  </head>
+  <body>
+    <div class=3D"header">
+header
+    </div>
+    <div class=3D"box">
+box
+    </div>
+
+  <!-- Code injected by live-server -->
+
+
+</body></html>
+------MultipartBoundary--ZcVTet3rR7azPxkMG20Un7owrppz1cNTld9TVH1qGO----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-637d7eea-5c3f-44be-b069-9687ba33bc86@mhtml.blink
+
+@charset "utf-8";
+
+.header { display: flex; background-color: aqua; height: 60px; }
+
+.box { display: flex; background-color: antiquewhite; height: 300px; margin=
+-left: 70px; margin-right: 70px; border: 1px solid; border-radius: 5px; }
+------MultipartBoundary--ZcVTet3rR7azPxkMG20Un7owrppz1cNTld9TVH1qGO------

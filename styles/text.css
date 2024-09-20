@@ -1,0 +1,47 @@
+p {
+  font-family: Roboto;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.suhas{
+  font-size: 20px;
+  font-weight: bold;
+  width: 150px;
+  line-height: 25px;
+  margin-bottom: 10px;
+}
+
+.views{
+  margin-top: 0px;
+  color: gray;
+  font-size: 15px;
+  margin-bottom: 10px;
+}
+
+.sm{
+  color: gray;
+  font-size: 14px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.about{
+  font-size: 12px;
+  color: rgb(49, 47, 47);
+  width: 300px;
+  line-height: 20px;
+  margin-top: 12px;
+  margin-bottom: 150px;
+}
+.Discription{
+     font-size: 17px;
+     background-color: red;
+     color: white;
+     text-align: center;
+     padding-top: 20px;
+     padding-bottom: 20px;
+}
+.off:hover{
+text-decoration: underline;
+cursor: pointer;
+}
